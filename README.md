@@ -13,14 +13,20 @@ To get started with this repository, you need to have **Java** installed on your
 ```bash
 java-dsa-solutions/
 │
-├── src/            # Source code directory
-│   ├── arrays/     # Array-based problem solutions
-│   ├── linkedlist/ # Linked List-based problem solutions
-│   ├── trees/      # Tree-based problem solutions
-│   ├── graphs/     # Graph-based problem solutions
-│   ├── sorting/    # Sorting algorithm solutions
-│   └── dynamic/    # Dynamic programming problem solutions
+├── src/                             # Source code directory
+│   ├── arrays /                     # Array-based problem solutions
+│   ├── Basic sorting Algorithm /    # Sorting algorithm solutions
+│   ├── 2D Array /                   #
+│   ├── String /                     #
+│   ├── Bit Manipulation /           #
+│   ├── Object Oriented Programming/ #
+│   ├── Recursion Basics /           #
+│   ├── Divide & Conquer/            #
+│   ├── linkedlist/                  # Linked List-based problem solutions
+│   ├── trees/                       # Tree-based problem solutions
+│   ├── graphs/                      # Graph-based problem solutions
+│   └── dynamic/                     # Dynamic programming problem solutions
 │
-├── tests/          # Test cases for each problem
+├── tests/                           # Test cases for each problem
 │
-└── README.md       # Project documentation
+└── README.md                        # Project documentation
